@@ -75,8 +75,4 @@
 </section>
 
 <footer>
-  &copy; 2025 KBC Drain Cleaning & Maintenance LLC. All Rights Reserved.
-</footer>
-
-</body>
-</html>
+  &copy; 2025 KBC Drain Cl
